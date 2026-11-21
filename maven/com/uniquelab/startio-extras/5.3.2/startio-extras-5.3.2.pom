@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.uniquelab</groupId>
+  <artifactId>startio-extras</artifactId>
+  <version>5.3.2</version>
+  <packaging>jar</packaging>
+  <description>The three jars inside com.startapp:inapp-sdk:5.3.2 (libs/omsdk-1.6.0-cut.jar, libs/motion-core-1.0.0.jar, libs/bloomfilterclient.jar), unchanged, in one jar so Sketchware can dex them.</description>
+</project>
