@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>com.uniquelab</groupId>
-  <artifactId>unityads-extras</artifactId>
-  <version>4.16.6</version>
-  <packaging>jar</packaging>
-  <description>The four jars inside com.unity3d.ads:unity-ads:4.16.6 (libs/omsdk-android-1.4.9-release.jar, unity-scaradapter-2100.jar, unity-scaradapter-2300.jar, unity-scaradapter-common.jar), unchanged, in one jar so Sketchware can dex them.</description>
-</project>

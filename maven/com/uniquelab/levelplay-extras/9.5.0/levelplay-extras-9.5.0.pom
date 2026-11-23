@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>com.uniquelab</groupId>
-  <artifactId>levelplay-extras</artifactId>
-  <version>9.5.0</version>
-  <packaging>jar</packaging>
-  <description>The jar inside com.unity3d.ads-mediation:mediation-sdk:9.5.0 (libs/omsdk-android-1.5.7-release.jar), unchanged, so Sketchware can dex it.</description>
-</project>
