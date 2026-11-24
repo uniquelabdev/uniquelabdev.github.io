@@ -1,9 +1,6 @@
 # Unique Lab (uniquelabapps.com) - Arrow Tap
 OWNERDOMAIN=uniquelabapps.com
 
-# Google AdMob (Arrow Tap 1.3 and older)
-google.com, pub-2573029556555111, DIRECT, f08c47fec0942fa0
-
 # ironSource Ads (Unity LevelPlay)
 ironsrc.com, 703523, DIRECT
 media.net, 8CUH2L333, RESELLER
