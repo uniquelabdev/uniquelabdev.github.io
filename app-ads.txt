@@ -1,6 +1,9 @@
 # Unique Lab (uniquelabapps.com) - Arrow Tap
 OWNERDOMAIN=uniquelabapps.com
 
+# Liftoff Monetize (Vungle)
+vungle.com, 6b09dbff824b51cafc14bbe8, DIRECT, c107d686becd2d77
+
 # ironSource Ads (Unity LevelPlay)
 ironsrc.com, 703523, DIRECT
 media.net, 8CUH2L333, RESELLER
